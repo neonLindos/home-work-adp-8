@@ -15,7 +15,6 @@ void TestTask1()
 
     order.Prepare();
 
-    // Цены в тенге
     Console.WriteLine($"{order.GetDescription()} = {order.Cost():F0} ₸");
 
     order = new Milk(order);
