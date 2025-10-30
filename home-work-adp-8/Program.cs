@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 using home_work_adp_8.Task1;
 using home_work_adp_8.Task2;
 
